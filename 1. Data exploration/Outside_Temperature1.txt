@@ -1,0 +1,14 @@
+AVG TIME OF HOTTEST DAILY TEMPERATURE OVER A MONTH:1900-01-01 23:21:52.500000WHAT TIME OF A DAY IS MOST HOTTEST COMMONLY OCCURING HOTTEST TIME:     Time  Outside Temperature
+86  14:20                 23.2 WHICH ARE THE TOP TEN HOTTEST TIMES ON DISTINCT DAYS:                   colmax  Temp
+Time                           
+Date                           
+01/06/2006  (mean, 15:00)  17.2
+01/07/2006  (mean, 09:00)  16.0
+02/06/2006  (mean, 13:20)  17.7
+03/06/2006  (mean, 14:50)  19.6
+04/06/2006  (mean, 16:10)  18.0
+05/06/2006  (mean, 13:30)  16.1
+06/06/2006  (mean, 14:20)  23.2
+07/06/2006  (mean, 13:00)  19.6
+08/06/2006  (mean, 16:20)  20.7
+09/06/2006  (mean, 14:40)  17.9
